@@ -164,35 +164,6 @@ Examples:
 
 ### 4.1 Glossary Additions (Suggested)
 
-**Nature & Environment**
-
-- **Mar** — sea / lake (Germanic root)
-- **Fell** — stone / rock face
-- **Holt** — wood / forest
-- **Garth** — enclosure / garden / safe place
-
-**Abstract Concepts**
-
-- **Wyrd** — fate / destiny
-- **Grim** — wrath / fierce emotion
-- **Morn** — sorrow / mourning
-
-### 4.2 Applied Examples
-
-**The Seasonal Cycle**
-
-- `Vinta ka vorn ram.`  
-  - “Winter is guarding the land.”
-
-- `Sommar zo bran.`  
-  - “Summer will blaze.”
-
-- `Kinen ta ay.`  
-  - “The children blessed [it].”
-
-**Titles & Society**
-
-- `Djarkin Djamon` — “chosen heir [of] the people.”  
-- `Vornar Thar` — “watcher [of] the oath.”
+_Internal note (lexicon design): When no suitable Djamonkel root or compound can be formed from existing material, new **root words** may be coined directly from Germanic or Norse sources, then lightly adapted to Djamonkel phonology and stress patterns._
 
 

@@ -7,11 +7,11 @@
 | **Ay**    | verb           | to bless                                  | From `Kinen ta ay.` — “The children blessed [it].”  |
 | **Bran**  | noun / verb    | blaze; to blaze                           | From `Flambran` (“blaze of flame”) and examples.    |
 | **Djamon**| noun           | the People                                | From `Djarkin Djamon` — “chosen heir [of] the people.” |
-| **Fell**  | noun           | stone; rock face                          | From glossary (Nature & Environment).               |
+| **Fel**   | noun           | stone; rock face                          | From glossary (Nature & Environment).               |
 | **Flam**  | noun / verb    | flame, fire; to burn                      | From plural `Flamen`, `Tharflam`, `Sommar zo flam.` |
-| **Garth** | noun           | enclosure; garden; safe place             | From glossary (Nature & Environment).               |
-| **Grim**  | noun           | wrath; fierce emotion                     | From glossary (Abstract Concepts).                  |
-| **Holt**  | noun           | wood; forest                              | From glossary (Nature & Environment).               |
+| **Gath**  | noun           | enclosure; garden; safe place             | From glossary (Nature & Environment).               |
+| **Grum**  | noun           | wrath; fierce emotion                     | From glossary (Abstract Concepts).                  |
+| **Hol**   | noun           | wood; forest                              | From glossary (Nature & Environment).               |
 | **Jor**   | noun           | life                                      | From epic plural `Jorera` (“all life”).            |
 | **Kel**   | noun           | heart; inner essence                      | From `Kel Sommar` — “heart of Sommar.”             |
 | **Kin**   | noun           | child                                     | From `Kin` → `Kinen` (“children”).                  |
@@ -24,7 +24,7 @@
 | **Thar**  | noun           | oath                                      | From `Tharflam`, `Vornar Thar` (“Watcher of the Oath”). |
 | **Vinta** | noun           | Winter (season)                           | From `Zel Vinta` (“river of winter”), examples.     |
 | **Vorn**  | noun / verb    | guard; to guard                           | From `Vorn` (guard), `Vinta ka vorn ram.`           |
-| **Wyrd**  | noun           | fate; destiny                             | From glossary (Abstract Concepts).                  |
+| **Vur**   | noun           | fate; destiny                             | From glossary (Abstract Concepts).                  |
 | **Zel**   | noun           | river                                     | From `Zelram` (“riverlands”), `Zel Vinta`.          |
 
 ---
