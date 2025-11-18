@@ -1,4 +1,4 @@
-## Djamonkel Dictionary
+## Lathama Djamon Dictionary
 
 ### Core Roots
 
@@ -13,9 +13,10 @@
 | **Holeiki** | noun | wood; forest | |
 | **Jor** | noun | life | From epic plural `Jorera` (“all life”). |
 | **Kala** | noun / adj | cold; chill | |
+| **Kardj** | noun | heart | Physical heart |
 | **Kin** | noun | child | Plural: `Kinen` (“children”). |
 | **Lothama** | noun | language; speech; tongue | New root for “language” in general. |
-| **Marei** | noun | sea | From `Mar` — sea/lake and `Ramar` (“water-land”). |
+| **Marei** | noun | sea | From `Marei` — sea/lake and `Ramar` (“water-land”). |
 | **Meil** | noun | sorrow; mourning | From glossary (Abstract Concepts). |
 | **Ram** | noun | land | |
 | **Raiya** | noun | feather; feathers | Root of the name `Suraiya`. |
@@ -36,6 +37,7 @@
 | --- | --- | --- | --- |
 | **Flamen** | noun (plural) | flames | Standard plural: `Flam` + `-en`. |
 | **Flamsk** | adjective | fiery; burned | `Flam` + `-sk` (“having the quality of”). |
+| **Kardjsk** | adjective | kind-hearted; compassionate; empathetic | Pronounced /ˈkar.dʒask/ (“KAR-djask”); `Kardj` (heart) + `-sk` (“having the quality of”). |
 | **Jorera** | noun (epic pl.) | all life | Epic plural: `Jor` + `-era`. |
 | **Kinen** | noun (plural) | children | Standard plural: `Kin` + `-en`. |
 | **Ramara** | noun (epic pl.) | all lands | Epic plural: `Ram` + `-ara`. |
@@ -72,5 +74,7 @@
 | **-sk** | suffix | adjectival (“having the quality of”) | `Flam` → `Flamsk` (“fiery / burned”). |
 | **-kel** | suffix | abstract state; essence | `Sno` → `Snoskel` (“Winter”). |
 | **-ar** | suffix | agentive (“one who does”) | `Vorn` → `Vornar` (“watcher”). |
+| **ge-** | prefix | resultative (“having been given / entrusted with X”) | `Girdesvar` → `Gegirdesvar` (“entrusted; having been given responsibility”). |
+| **far-** | prefix | causative / applicative (“to give / apply X to someone”) | `Girdesvar` → `Fargirdesvar Kin` (“to entrust the child; to give the child responsibility”). |
 
 

@@ -8,7 +8,7 @@ This document outlines the core phonology, morphology, and syntax of **Lothama D
 
 ## 1. Phonology
 
-> _internal: The sound system is distinctively Germanic/Norse, characterized by hard consonants, distinctive clusters, and a clear vowel system.
+_Internal: The sound system is distinctively Germanic/Norse, characterized by hard consonants, distinctive clusters, and a clear vowel system._
 
 ### 1.1 Consonant Inventory
 | Category | Sounds | Notes |
@@ -98,11 +98,26 @@ When the **head root** ends with the same consonant the **modifier root** begins
   - `Girde` (burden — HEAD) + `Svar` (answer — MODIFIER) → `Girdesvar`  
     - **Literal**: “burden-answer” → **“responsibility; obligation; accountability.”**
 
+### 2.4 Derivational Prefixes
+
+These prefixes derive **resultative** and **causative / applicative** meanings from nominal roots.
+
+| Prefix | Function | Meaning | Example |
+| --- | --- | --- | --- |
+| `ge-` | Resultative | Marks a state of “having been given X / entrusted with X” (externally assigned, completed). | `Girdesvar` → `Gegirdesvar` (“the one entrusted; having been given responsibility”). |
+| `far-` | Causative / applicative | “To give X; to cause another to have X; to apply X to someone.” | `Girdesvar` → `Fargirdesvar Kin` (“to entrust the child; to give the child responsibility”). |
+
+Example sentences with tense particles:
+
+- `Sommar ta Gegirdesvar.` — “Sommar had been given responsibility / was entrusted with responsibility.”
+- `Sommar ka Fargirdesvar Kin.` — “Sommar is giving the child responsibility / is entrusting the child.”
+- `Sommar zo Fargirdesvar Kin.` — “Sommar will give the child responsibility / will entrust the child.”
+
 ---
 
 ## 3. Syntax
 
-Djamonkel utilizes a **strict word order** with **analytic tense marking**.
+Lothama Djamon utilizes a **strict word order** with **analytic tense marking**.
 
 ### 3.1 Word Order
 
@@ -142,7 +157,7 @@ Possession is marked by **juxtaposition** in the order:
 
 Examples:
 
-- `Kel Sommar` → “heart [of] Sommar”
+ - `Kardj Sommar` → “heart [of] Sommar”
 - `Zel Vinta` → “river [of] winter”
 
 ---
@@ -151,6 +166,6 @@ Examples:
 
 ### 4.1 Glossary Additions (Suggested)
 
-_Internal note (lexicon design): When no suitable Djamonkel root or compound can be formed from existing material, new **root words** may be coined directly from Germanic or Norse sources, then lightly adapted to Djamonkel phonology and stress patterns._
+_Internal note (lexicon design): When no suitable Lothama Djamon root or compound can be formed from existing material, new **root words** may be coined directly from Germanic or Norse sources, then lightly adapted to Lothama Djamon phonology and stress patterns._
 
 
