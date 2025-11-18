@@ -50,7 +50,7 @@
 | **Flamvorn** | adjective / noun | warding flame; protective fire | `Flam` (flame, HEAD) + `Vorn` (guard, MODIFIER) — “guarded/protective flame.” |
 | **Ramarei** | noun | water-land; coast | `Ram` + `Marei` with consonant harmonization. |
 | **Ramzel** | noun | riverlands | `Ram` (land, HEAD) + `Zel` (river, MODIFIER) — “river-defined lands.” |
-| **Girdesvar** | noun | responsibility; obligation; accountability | `Girde` (burden, HEAD) + `Svar` (answer, MODIFIER) — “burden defined by answer; responsibility.” |
+| **Girdesvar** | noun | responsibility; obligation; accountability | `Girde` (burden, HEAD) + `Svar` (answer, MODIFIER) — "having to answer for something one bears.” |
 | **Vuratagna** | noun | fate; destiny | `Vura` (thread, HEAD) + `Tagna` (knot, MODIFIER) — “thread-knot; the binding knot of thread; fate; destiny.” |
 
 ---

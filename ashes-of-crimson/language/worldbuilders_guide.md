@@ -1,16 +1,14 @@
-## The Djamon Language — Djamonkel
+## The Djamon Language — Lothama Djamon
 
-### A Grammar of Djamonkel
+### A Grammar of Lothama Djamon
 
-Draft Specification v1.01  
-
-This document outlines the core phonology, morphology, and syntax of **Djamonkel**, a constructed language with a distinctly Germanic/Norse sound profile.
+This document outlines the core phonology, morphology, and syntax of **Lothama Djamon**
 
 ---
 
 ## 1. Phonology
 
-The sound system is distinctively Germanic/Norse, characterized by hard consonants, distinctive clusters, and a clear vowel system.
+> _internal: The sound system is distinctively Germanic/Norse, characterized by hard consonants, distinctive clusters, and a clear vowel system.
 
 ### 1.1 Consonant Inventory
 | Category | Sounds | Notes |
@@ -97,6 +95,8 @@ When the **head root** ends with the same consonant the **modifier root** begins
     - **Literal**: “river-land” → **“riverlands; lands defined by a river.”**  
   - `Vura` (thread — HEAD) + `Tagna` (knot — MODIFIER) → `Vuratagna`  
     - **Literal**: “thread-knot” → **“the binding knot of thread; fate; destiny.”**
+  - `Girde` (burden — HEAD) + `Svar` (answer — MODIFIER) → `Girdesvar`  
+    - **Literal**: “burden-answer” → **“responsibility; obligation; accountability.”**
 
 ---
 
