@@ -1,0 +1,32 @@
+---
+description: language docs — enforce Markdown table formatting
+globs: ["ashes-of-crimson/**/*.md"]
+alwaysApply: true
+---
+
+## Table Rules
+
+These rules apply to all Markdown files in `ashes-of-crimson/` (e.g. `dictionary.md`, `worldbuilders_guide.md`).
+
+### Table Header and Separator Rows
+
+- Use **minimal spacing**:
+  - Exactly one space between each pipe (`|`) and the cell content.
+  - Header example: `| Word | Part of Speech | Meaning | Notes |`
+- Use **minimal dashes** in separator rows:
+  - Each header column’s separator cell is exactly three dashes: `---`.
+  - Separator example: `| --- | --- | --- | --- |`
+- Apply the **same spacing rule** to separator rows:
+  - Exactly one space around each `---` cell and each `|`.
+- Do **not**:
+  - Use colons (`:`) for alignment.
+  - Add extra spaces inside cells to “visually” align columns.
+
+### Table Structure
+
+- No blank line between the header row and the separator row.
+- The number and order of columns must match between:
+  - The header row
+  - The separator row
+  - All data rows
+

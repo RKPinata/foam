@@ -13,8 +13,8 @@ This document outlines the core phonology, morphology, and syntax of **Djamonkel
 The sound system is distinctively Germanic/Norse, characterized by hard consonants, distinctive clusters, and a clear vowel system.
 
 ### 1.1 Consonant Inventory
-| Category          | Sounds                        | Notes                        |
-|---|---|---|
+| Category | Sounds | Notes |
+| --- | --- | --- |
 | **Stops**         | `/p/, /b/, /t/, /d/, /k/, /g/` |                              |
 | **Fricatives**    | `/f/, /v/, /s/, /z/, /θ/, /h/` | `/θ/` spelled **th**         |
 | **Affricates**    | `/dʒ/`                        | spelled **dj** — "hard J"    |
@@ -29,7 +29,8 @@ The digraph **dj** represents a voiced affricate (as in *judge*). It is treated 
 
 - **Vowels**: `a, e, i, o, u`
 - **Diphthongs / Glides**:
-  - **ay** (as in *eye*): treated structurally as vowel + consonant coda `/aj/`.
+  - **ai** (as in *eye*): 
+  - **ei** (as in *veil*): rising diphthong `/ei/`.  
 
 ### 1.3 Syllable Structure
 
@@ -46,20 +47,6 @@ The basic syllable template is:
   - Single consonant: `Ram`, `Kel`  
   - Or semivowel: `Ay`
 
-### 1.4 Stress Rules
-
-Stress falls primarily on the **first syllable of the root word**.
-
-- **Simple words**:  
-  - `Som-mar`  
-  - `Vin-ta`
-- **Compounds**:  
-  Primary stress remains on the first root, with secondary stress on the second root.
-  - `Zelram` → **ZEL**-ram  
-  - `Flambran` → **FLAM**-bran
-- **Particles**:  
-  Tense particles (`ta`, `ka`, `zo`) are generally **unstressed clitics**.
-
 ---
 
 ## 2. Morphology
@@ -72,8 +59,8 @@ The language distinguishes between **standard multiplicity** and an **“Epic/My
 
 #### Plural Types
 
-| Type              | Suffix     | Rule / Usage                                      | Examples                                      |
-| ----------------- | ---------- | ------------------------------------------------- | --------------------------------------------- |
+| Type | Suffix | Rule / Usage | Examples |
+| --- | --- | --- | --- |
 | Standard plural   | `-en`      | General plural marker                             | `Kin` → `Kinen` (“children”)                  |
 |                   |            |                                                   | `Flam` → `Flamen` (“flames”)                  |
 | Irregular plural  | `-an`      | Used for certain roots ending in nasals           | `Ram` → `Raman` (“lands”)                     |
@@ -84,31 +71,32 @@ The language distinguishes between **standard multiplicity** and an **“Epic/My
 
 These suffixes transform nouns into **agents**, **locations**, or **descriptive concepts**.
 
-| Suffix | Function     | Meaning                               | Example                                                    |
-| ------ | ------------ | ------------------------------------- | ---------------------------------------------------------- |
-| `-ar`  | Agentive     | “One who does” / “the doer”          | `Vorn` (guard) + `-ar` → `Vornar` (“watcher”)              |
-| `-ram` | Locative     | Region / “land of”                   | `Zel` (river) + `-ram` → `Zelram` (“riverlands”)           |
-| `-iya` | Feminine     | Flowing / graceful                   | `Sur` + `-iya` → `Suraiya`                                 |
-| `-kel` | Abstract     | State of being / essence             | `Sno` (snow) + `-kel` → `Snoskel` (“winter-soul”)          |
+| Suffix | Function | Meaning | Example |
+| --- | --- | --- | --- |
 | `-sk`  | Adjectival   | “Having the quality of”              | `Flam` + `-sk` → `Flamsk` (“fiery / burned”)               |
-| `-th`  | Ritual       | Vowed or sworn version               | `Kin` + `-th` → `Kinth` (“sworn-child / ward”)             |
+| `-kel` | Abstract     | State of being / essence             | `Sno` (snow) + `-kel` → `Snoskel` (“Winter”)               |
+| `-ar`  | Agentive     | “One who does” / “the doer”          | `Vorn` (guard) + `-ar` → `Vornar` (“watcher”)              |
 
 ### 2.3 Compounding Rules
 
-Compounding is the **primary method** of vocabulary expansion.
+Compounding is the **primary method** of vocabulary expansion.  
+In all compounds, **the first root is the HEAD (core concept)** and the **second root is the MODIFIER (descriptor)**,
 
-- **Rule 1: Direct Merge (Standard)**  
-  Roots are joined directly.
-  - `Flam` + `Bran` → `Flambran` (“blaze of flame”)
+> **HEAD ROOT + MODIFIER ROOT**  
+> Meaning: “X Y” → **“X that is characterized by Y.”**
 
-- **Rule 2: Consonant Harmonization**  
-  When the first root ends with the same consonant the second begins with, they merge into a **single instance**.
-  - `Ram` + `Mar` (“sea / water”) → `Ramar` (“water-land / coast”)
+- **Rule 1: Consonant Harmonization**  
+When the **head root** ends with the same consonant the **modifier root** begins with, they merge into a **single instance**, but **semantic roles do not change**.
+  - `Ram` (land, HEAD) + `Marei` (sea / water, MODIFIER) → `Ramarei`  
+    - **Literal**: land-sea → **“coast”**
 
-- **Rule 3: Semantic Hierarchy (Modifier–Head)**  
-  The first root **modifies** the second root. The second root is the **core object**.
-  - `Zel` (river — descriptor) + `Ram` (land — core) → `Zelram` (“river-land”)  
-  - `Thar` (oath) + `Flam` (fire) → `Tharflam` (“ritual fire / oath fire”)
+- **Rule 2: Semantic Hierarchy (Head–Modifier)**  
+  The **first root is always the head noun**, and the **second root is the modifier**.  
+  Together, they form a “head described by modifier” unit, mirroring noun + adjective phrases.
+  - `Ram` (land — HEAD) + `Zel` (river — MODIFIER) → `Ramzel`  
+    - **Literal**: “river-land” → **“riverlands; lands defined by a river.”**  
+  - `Vura` (thread — HEAD) + `Tagna` (knot — MODIFIER) → `Vuratagna`  
+    - **Literal**: “thread-knot” → **“the binding knot of thread; fate; destiny.”**
 
 ---
 
@@ -132,8 +120,8 @@ Example:
 
 Verbs do **not** conjugate. Tense is indicated by a **particle placed immediately before the verb**.
 
-| Particle | Tense / Aspect           | Example              | Translation                         |
-| -------- | ------------------------ | -------------------- | ----------------------------------- |
+| Particle | Tense / Aspect | Example | Translation |
+| --- | --- | --- | --- |
 | `ta`     | Past                     | `Sommar ta run.`     | “Sommar walked.”                    |
 | `ka`     | Continuous / Present     | `Zel ka run.`        | “The river flows / is flowing.”     |
 | `zo`     | Future / Intention       | `Sommar zo flam.`    | “Sommar will burn.”                 |
@@ -144,8 +132,7 @@ Adjectives and other descriptors **follow the noun** (post-nominal position).
 
 Examples:
 
-- `Ram skarkel` → “land harsh” → **“the harsh land”**
-- `Kin flamvorn` → “child fiery-willed” → **“the fiery-willed child”**
+- `Ram flamsk` → “land fiery/burned” → **“the burned land”**
 
 ### 3.4 Possession
 
