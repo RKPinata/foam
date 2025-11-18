@@ -49,7 +49,7 @@ The basic syllable template is:
 
 ## 2. Morphology
 
-Words are primarily formed through **compounding** and **suffixation**.
+Words are primarily formed through **compounding** and **affixation**.
 
 ### 2.1 Pluralization
 
@@ -113,6 +113,56 @@ Example sentences with tense particles:
 - `Sommar ka Fargirdesvar Kin.` — “Sommar is giving the child responsibility / is entrusting the child.”
 - `Sommar zo Fargirdesvar Kin.` — “Sommar will give the child responsibility / will entrust the child.”
 
+### 2.5 Stative Copula and the System of Being
+
+#### 2.5.1 The Stative Copula `ra`
+
+Lothama Djamon has a dedicated **stative copula** `ra`, glossed as **“is / are (in essence)”**. It links a **subject noun** to a following **descriptor** that denotes inherent traits, identity, classification, or other stable states.
+
+Core examples:
+
+- `Djamon ra kardjsk.` — “The person is kind-hearted (as a trait).”
+- `Sommar ra vornar.` — “Sommar is a watcher.” (identity / role)
+
+By default, a predicate with `ra` is understood as **durative and characteristic**, not momentary; see §3.5 for the main clause patterns built with `ra`.
+
+#### 2.5.2 Contrast with Dynamic Tense Particles
+
+The stative copula `ra` exists alongside the **dynamic tense particles** `ta`, `ka`, and `zo` already used with verbal predicates (see §3.2 for the full tense system).
+
+Canonical contrast:
+
+- `Djamon ka kardjsk.` — “The person is being kind right now / is acting kindly.” (temporary behavior)
+- `Djamon ra kardjsk.` — “The person is kind-hearted.” (enduring trait)
+
+Here, `ka` presents **observable behavior in time**, while `ra` presents an **underlying quality or identity**.
+
+#### 2.5.3 Zero-Copula for Inherent Traits
+
+Alongside `ra`, Lothama Djamon allows a **zero-copula construction** by simple **juxtaposition** of noun and descriptor for clearly **inherent or permanent traits**.
+
+> **Noun + Descriptor**
+
+This is **semantically equivalent** to the `ra` construction but omits an overt verb. Its syntactic pattern, examples, and stylistic uses are treated in detail in §3.5.2.
+
+#### 2.5.4 Derivatives of `ra`
+
+The stative copula has several productive **derivatives** that refine different aspects of “being”:
+
+- **`rath`** — **emphatic stative copula**, “indeed is / truly is”  
+  Used for proclamation, solemn affirmation, or strong emphasis.
+  - `Sommar rath vornar.` — “Sommar truly is a watcher / indeed is a watcher.”
+
+- **`ran`** — **existential predicate**, “there is / there exists”  
+  Introduces the **existence** of an entity or concept.
+  - `Ran Djamon.` — “There is a person / A person exists.”
+
+- **`ral`** — **equative copula**, “is identical to / equals”  
+  States that two referential expressions denote the **same entity**.
+  - `Vornar ral Gegirdesvar.` — “The watcher is (the same as) the entrusted one.”
+
+These forms pattern morphologically with `ra` and, together with zero-copula constructions, constitute the broader **system of being** described in this section and in §3.5.
+
 ---
 
 ## 3. Syntax
@@ -135,11 +185,12 @@ Example:
 
 Verbs do **not** conjugate. Tense is indicated by a **particle placed immediately before the verb**.
 
-| Particle | Tense / Aspect | Example | Translation |
+| Particle | Tense / Aspect / Function | Example | Translation |
 | --- | --- | --- | --- |
-| `ta`     | Past                     | `Sommar ta run.`     | “Sommar walked.”                    |
-| `ka`     | Continuous / Present     | `Zel ka run.`        | “The river flows / is flowing.”     |
-| `zo`     | Future / Intention       | `Sommar zo flam.`    | “Sommar will burn.”                 |
+| `ta` | Past | `Sommar ta run.` | “Sommar walked.” |
+| `ka` | Continuous / Present | `Zel ka run.` | “The river flows / is flowing.” |
+| `zo` | Future / Intention | `Sommar zo flam.` | “Sommar will burn.” |
+| `ra` | Stative / Essence | `Djamon ra kardjsk.` | “The person is kind-hearted.” |
 
 ### 3.3 Noun Modification (Descriptors)
 
@@ -160,11 +211,65 @@ Examples:
  - `Kardj Sommar` → “heart [of] Sommar”
 - `Zel Vinta` → “river [of] winter”
 
+### 3.5 Stative Predication
+
+#### 3.5.1 Core Stative Construction
+
+The basic **stative clause** uses the copula `ra` introduced in §2.5.1.
+
+> **Noun + ra + Descriptor**
+
+This pattern encodes essence, identity, or stable classification. A canonical example (revisited from §2.5) is:
+
+- `Djamon ra kardjsk.` — “The person is kind-hearted.”
+
+Other stative clauses follow the same pattern, simply substituting different descriptors (`Sommar ra vornar.`, `Djamon ra Gegirdesvar.`, etc.).
+
+#### 3.5.2 Zero-Copula Construction
+
+In contexts of **clear inherent traits**, the copula may be **omitted**:
+
+> **Noun + Descriptor**
+
+Examples:
+
+- `Djamon kardjsk.` — “The person [is] kind-hearted.”
+- `Ram flamsk.` — “The land [is] burned / fiery.”
+
+This construction is **equivalent in meaning** to `Noun + ra + Descriptor` but is:
+
+- More **compact** in prose.
+- Favored in **formal, epigraphic, or poetic** language.
+
+In practice:
+
+- Use explicit `ra` when:
+  - Clarifying **identity** or **classification** (`Sommar ra vornar.`, `Djamon ra Gegirdesvar.`).
+  - You wish to **foreground the verb-like idea of “being”** or to avoid ambiguity.
+- Use zero-copula (`Noun + Descriptor`) when:
+  - The **stative meaning is obvious from context**.
+  - You aim for a **compressed, formal, or poetic** style, especially in titles, inscriptions, and verse.
+
+#### 3.5.3 Dynamic Construction
+
+Dynamic predication uses the **tense particle** `ka` (and its past / future counterparts) instead of `ra`:
+
+> **Noun + ka + Descriptor**
+
+This expresses **temporary behavior** or an **ongoing expression of a trait**.
+
+Canonical contrast (revisited from §2.5.2):
+
+- `Djamon ka kardjsk.` — “The person is being kind right now / is acting kindly.”
+- `Djamon ra kardjsk.` — “The person is kind-hearted.” (enduring trait)
+
+Here, `ka` presents **observable behavior in time**, while `ra` presents the **underlying quality or identity**.
+
 ---
 
 ## 4. Lexicon Expansion
 
-### 4.1 Glossary Additions (Suggested)
+### 4.1 Glossary Additions
 
 _Internal note (lexicon design): When no suitable Lothama Djamon root or compound can be formed from existing material, new **root words** may be coined directly from Germanic or Norse sources, then lightly adapted to Lothama Djamon phonology and stress patterns._
 

@@ -64,6 +64,10 @@
 | **ka** | particle | present / continuous tense | From tense particle table. |
 | **ta** | particle | past tense | From tense particle table. |
 | **zo** | particle | future / intention | From tense particle table. |
+| **ra** | particle / copula | stative / essence (“is, are in essence”) | `Djamon ra kardjsk.` (“The person is kind-hearted.”). |
+| **rath** | copula | emphatic stative (“indeed / truly is”) | `Sommar rath vornar.` (“Sommar truly is a watcher.”). |
+| **ran** | copula | existential (“there is / there exists”) | `Ran Djamon.` (“There is a person.”). |
+| **ral** | copula | equative (“is identical to / equals”) | `Vornar ral Gegirdesvar.` (“The watcher is the entrusted one.”). |
 
 ---
 
@@ -71,6 +75,9 @@
 
 | Affix | Type | Meaning / Function | Example / Notes |
 | --- | --- | --- | --- |
+| **-en** | suffix | standard plural (“general plural marker”) | `Kin` → `Kinen` (“children”); `Flam` → `Flamen` (“flames”). |
+| **-an** | suffix | irregular plural for some nasal-final roots | `Ram` → `Raman` (“lands”). |
+| **-era/-ara** | suffix | epic plural (“all; mythic totality of X”) | `Jor` → `Jorera` (“all life”); `Ram` → `Ramara` (“all lands”). |
 | **-sk** | suffix | adjectival (“having the quality of”) | `Flam` → `Flamsk` (“fiery / burned”). |
 | **-kel** | suffix | abstract state; essence | `Sno` → `Snoskel` (“Winter”). |
 | **-ar** | suffix | agentive (“one who does”) | `Vorn` → `Vornar` (“watcher”). |
