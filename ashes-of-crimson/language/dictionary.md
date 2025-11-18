@@ -46,7 +46,7 @@
 | Word | Part of Speech | Meaning | Notes / Formation |
 | --- | --- | --- | --- |
 | **Flamvorn**  | adjective / noun   | warding flame; protective fire               | `Flam` (flame, HEAD) + `Vorn` (guard, MODIFIER) — “guarded/protective flame.” |
-| **Ramar**     | noun               | water-land; coast                            | `Ram` + `Mar` with consonant harmonization.                   |
+| **Ramarei**   | noun               | water-land; coast                            | `Ram` + `Marei` with consonant harmonization.                   |
 | **Ramzel**    | noun               | riverlands                                   | `Ram` (land, HEAD) + `Zel` (river, MODIFIER) — “river-defined lands.” |
 | **Vuratagna** | noun               | fate; destiny                                | `Vura` (thread, HEAD) + `Tagna` (knot, MODIFIER) — “thread-knot; the binding knot of thread; fate; destiny.” |
 

@@ -1,0 +1,9 @@
+---
+description: language docs — lexicon design and usage rules
+globs: ["ashes-of-crimson/language/**/*.md"]
+alwaysApply: true
+---
+
+@ashes-of-crimson/language/worldbuilders_guide.md (149-156)
+- Treat the “Internal note (lexicon design)” here as a binding rule: when no suitable Djamonkel root or compound can be formed from existing material, you may coin new root words directly from Germanic or Norse sources, then lightly adapt them to Djamon phonology and stress patterns.
+

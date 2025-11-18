@@ -1,5 +1,5 @@
 ---
-description: language docs — enforce Markdown table formatting
+description: language docs — structural Markdown table formatting (tables)
 globs: ["ashes-of-crimson/**/*.md"]
 alwaysApply: true
 ---
